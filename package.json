@@ -1,0 +1,14 @@
+{
+  "name": "chat-gpt-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hospotho/ChatGPTBot.git",
+  "author": "hospotho <a155268747@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "mongodb": "^5.1.0",
+    "openai": "^3.2.1"
+  }
+}
